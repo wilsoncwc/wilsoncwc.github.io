@@ -12,5 +12,3 @@ In my free time I browse Reddit, and rave to progressive house and liquid drum a
 I also enjoy running, because I'm bad at sports.
 
 Feel free to contact me at wilsoncwc@gmail.com if you have any questions about me or the contents of this blog.
-
-![svgimg](/img/svgtest3.svg)
