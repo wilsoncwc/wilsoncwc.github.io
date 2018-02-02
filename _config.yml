@@ -10,7 +10,7 @@ title:            Maps and Spatial Analysis
 tagline:          "My work in GIS and other stuff"
 description:      "A place where I keep track of what I learn. Mostly about GIS, but with other stuff occasionally thrown in."
 url:              https://wilsoncwc.github.io
-baseurl:          
+baseurl:          /
 
 author:
   name:           'Wilson Chua'
