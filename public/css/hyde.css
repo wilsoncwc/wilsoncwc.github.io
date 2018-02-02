@@ -219,13 +219,13 @@ a.sidebar-nav-item:focus {
   color: #90a959;
 }
 
-/* Cyan */
+/* Dark Cyan :) */
 .theme-base-0c .sidebar {
-  background-color: #75b5aa;
+  background-color: #008b8b;
 }
 .theme-base-0c .content a,
 .theme-base-0c .related-posts li a:hover {
-  color: #75b5aa;
+  color: #008b8b;
 }
 
 /* Blue */
