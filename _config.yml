@@ -16,10 +16,13 @@ author:
   name:           'Wilson Chua'
   url:            https://twitter.com/wilsoncwc
 
-paginate:         5
+paginate:         3
 
 # Custom vars
-version:          
+version:
+twitter_username:     wilsoncwc
+github_username:      wilsoncwc
+facebook_username:    wilson7447
 
 github:
-  repo:           https://github.com/wilsoncwc
+  repo:           https://github.com/wilsoncwc/wilsoncwc.github.io
