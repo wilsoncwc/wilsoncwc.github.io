@@ -14,15 +14,14 @@ baseurl:          "/"
 
 author:
   name:           'Wilson Chua'
-  url:            https://twitter.com/wilsoncwc
-
+  url:            https://wilsoncwc.github.io
+  twitter:        wilsoncwc
+  github:         wilsoncwc
+  email:          wilsoncwc@gmail.com
 paginate:         3
 
 # Custom vars
 version:
-twitter_username:     wilsoncwc
-github_username:      wilsoncwc
-facebook_username:    wilson7447
 
 github:
   repo:           https://github.com/wilsoncwc/wilsoncwc.github.io
