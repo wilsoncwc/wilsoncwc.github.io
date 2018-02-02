@@ -98,6 +98,12 @@ a.sidebar-nav-item:focus {
 .sidebar-nav-item.active {
   font-weight: bold;
 }
+.sidebar-license {
+  font-size: 0.8rem;
+  font-family: Verdana;
+  line-height: 1;
+  text-align: center;
+}
 
 /* Sticky sidebar
  *
