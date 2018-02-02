@@ -8,15 +8,15 @@ tags: qgis singapore vector
 
 Lab Assignment #2 for my high school GIS course
 
-# Introduction
+## Introduction
 
 A client requests an identification of a feasible location for his start-up beverage outlet in northern Singapore. The outlet specializes in bubble tea, and it was preferred that the location would take advantage of larger human traffic near major transportation routes.
 
-# Summary of Considerations
+## Summary of Considerations
 
 Woodlands was chosen primarily due to the high commuter traffic across the Causeway between Singapore and Malaysia. The resident population would also play a large factor in locational attractiveness, specifically the younger age groups of 10 to 25 years. Important nodes to consider therefore include schools and malls which are heavily frequented by the above, as well as transportation hubs such as MRT stations, major expressways and roads. Also the locations of other bubble tea franchises should be avoided in order to minimize competition.
 
-# Spatial Analysis
+## Spatial Analysis
 
 The featured map and the map below depict the major nodes of human traffic.
 
@@ -28,7 +28,7 @@ The following maps show the population data of the Woodlands planning area, deli
 
 ![Woodlands, Population Density by Subzone Aged 10-24](/img/2017-11-06-Siting_a_new_bubble_tea_shop_in_Woodlands_Singapore/Woodlands_Population10-24.jpeg "Woodlands, Population Density by Subzone Aged 10-24")
 
-# Conclusion
+## Conclusion
 
 ![Woodlands, Location of Cafes, Bubble Tea Shops, and Sited Location](/img/2017-11-06-Siting_a_new_bubble_tea_shop_in_Woodlands_Singapore/Woodlands_SitingOfTeashop.jpeg "Woodlands, Location of Cafes, Bubble Tea Shops, and Sited Location")
 
