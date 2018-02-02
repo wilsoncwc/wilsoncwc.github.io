@@ -7,15 +7,15 @@ tags: qgis singapore vector raster
 ---
 Lab Assignment #3 for my high school GIS course.
 
-# Introduction
+## Introduction
 
 A client wishes to identify areas and clusters of crimes rates in Singapore using GIS, in order to access the feasibility of initiating a grassroots project on urban neighbourhood watch at some of these areas or clusters.
 
-# Summary of Considerations
+## Summary of Considerations
 
 Type of crime is to be considered as not every single crime would be relevant to a neighbourhood watch. According to Bennett et al. (2008), the majority of neighbourhood watches worldwide focuses on robberies. However in the case of Singapore,  the Neighbourhood Watch Groups (NWGs) established look at many other types of crimes, including unlicensed money lending (UML) and harassment. Hence, all type of crimes should be analysed.
 
-# Spatial Analysis
+## Spatial Analysis
 
 ![Density of all crime cases reported per NPC, 2013](/img/2017-09-22-Locating_a_neighbourhood_watch_in_Singapore/CrimeDensity.jpeg "Density of all crime cases reported per NPC, 2013")
 
