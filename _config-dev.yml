@@ -1,0 +1,30 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Maps and Spatial Analysis
+tagline:          "My work in GIS and other stuff"
+description:      "A place where I keep track of what I learn. Mostly about GIS, but with other stuff occasionally thrown in."
+url:              https://wilsoncwc.github.io
+baseurl:          /
+paginate:         3
+rss:              atom.xml
+
+author:
+  name:           Wilson Chua
+  twitter:        wilsoncwc
+  github:         wilsoncwc
+  email:          wilsoncwc@gmail.com
+
+plugins: [jekyll-paginate]
+
+
+# Custom vars
+version:
+
+github:
+  repo:           https://github.com/wilsoncwc/wilsoncwc.github.io

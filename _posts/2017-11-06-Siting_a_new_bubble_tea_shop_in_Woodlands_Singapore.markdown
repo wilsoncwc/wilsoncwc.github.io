@@ -20,16 +20,16 @@ Woodlands was chosen primarily due to the high commuter traffic across the Cause
 
 The featured map and the map below depict the major nodes of human traffic.
 
-![Woodlands, Expressways and Roads](/img/2017-11-06-Siting_a_new_bubble_tea_shop_in_Woodlands_Singapore/Woodlands_ExpresswaysRoads.jpeg "Woodlands, Expressways and Roads")
+![Woodlands, Expressways and Roads](/assets/2017-11-06-Siting_a_new_bubble_tea_shop_in_Woodlands_Singapore/Woodlands_ExpresswaysRoads.jpeg "Woodlands, Expressways and Roads")
 
 The following maps show the population data of the Woodlands planning area, delimited by subzone. The first describe the general population density, and the second the population density of the target age group (10 to 25 years).
 
-![Woodlands, Population Density by Subzone](/img/2017-11-06-Siting_a_new_bubble_tea_shop_in_Woodlands_Singapore/Woodlands_PopulationDensityBySubzone.jpeg "Woodlands, Population Density by Subzone")
+![Woodlands, Population Density by Subzone](/assets/2017-11-06-Siting_a_new_bubble_tea_shop_in_Woodlands_Singapore/Woodlands_PopulationDensityBySubzone.jpeg "Woodlands, Population Density by Subzone")
 
-![Woodlands, Population Density by Subzone Aged 10-24](/img/2017-11-06-Siting_a_new_bubble_tea_shop_in_Woodlands_Singapore/Woodlands_Population10-24.jpeg "Woodlands, Population Density by Subzone Aged 10-24")
+![Woodlands, Population Density by Subzone Aged 10-24](/assets/2017-11-06-Siting_a_new_bubble_tea_shop_in_Woodlands_Singapore/Woodlands_Population10-24.jpeg "Woodlands, Population Density by Subzone Aged 10-24")
 
 ## Conclusion
 
-![Woodlands, Location of Cafes, Bubble Tea Shops, and Sited Location](/img/2017-11-06-Siting_a_new_bubble_tea_shop_in_Woodlands_Singapore/Woodlands_SitingOfTeashop.jpeg "Woodlands, Location of Cafes, Bubble Tea Shops, and Sited Location")
+![Woodlands, Location of Cafes, Bubble Tea Shops, and Sited Location](/assets/2017-11-06-Siting_a_new_bubble_tea_shop_in_Woodlands_Singapore/Woodlands_SitingOfTeashop.jpeg "Woodlands, Location of Cafes, Bubble Tea Shops, and Sited Location")
 
 Bearing in mind the client’s preference to tap on major transportation nodes, Admiralty MRT was chosen to be the most feasible location for the start-up, which can be seen in the above map. The subzone of Woodlands East has an overwhelming large local population, and it may be possible that the traffic from schools and the residences may be comparable to that of the regional centre and Marsiling MRT. It is recommended that a café-style setup should be chosen in order to cater for a differing ambience to the only other competitor in the area, Gong Cha.

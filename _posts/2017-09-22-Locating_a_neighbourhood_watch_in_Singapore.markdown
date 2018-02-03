@@ -17,15 +17,15 @@ Type of crime is to be considered as not every single crime would be relevant to
 
 ## Spatial Analysis
 
-![Density of all crime cases reported per NPC, 2013](/img/2017-09-22-Locating_a_neighbourhood_watch_in_Singapore/CrimeDensity.jpeg "Density of all crime cases reported per NPC, 2013")
+![Density of all crime cases reported per NPC, 2013](/assets/2017-09-22-Locating_a_neighbourhood_watch_in_Singapore/CrimeDensity.jpeg "Density of all crime cases reported per NPC, 2013")
 
 The first map done, featured above, showcases the density of crime cases for each planning area.
 
-![Heatmap of all reported crime cases, 2013](/img/2017-09-22-Locating_a_neighbourhood_watch_in_Singapore/HeatmapOfCrimeDensity.jpeg "Heatmap of all reported crime cases, 2013")
+![Heatmap of all reported crime cases, 2013](/assets/2017-09-22-Locating_a_neighbourhood_watch_in_Singapore/HeatmapOfCrimeDensity.jpeg "Heatmap of all reported crime cases, 2013")
 
 A weighted heatmap of the crime cases, which does not discriminate well for specific localities within planning areas due to the utilization of the polygon centriods as the centre. However it can still be acceptable to first consider the chloropleth map to identify clusters, and then to use the heatmap to delimit hotspots.
 
-![SPF Establishments, 1km Buffer](/img/2017-09-22-Locating_a_neighbourhood_watch_in_Singapore/SPFEstablishmentsBuffer.jpeg "SPF Establishments, 1km Buffer")
+![SPF Establishments, 1km Buffer](/assets/2017-09-22-Locating_a_neighbourhood_watch_in_Singapore/SPFEstablishmentsBuffer.jpeg "SPF Establishments, 1km Buffer")
 
 Subsequently the Singapore Police Force (SPF) Neighbourhood Police Centres and Posts were mapped for the hotspots to identify areas that would have sufficient local police support for the NWGs. Buffer zones of 1km were used to visualize the reach of the police centres and posts.
 
