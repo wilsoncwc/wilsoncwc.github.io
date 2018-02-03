@@ -3,7 +3,7 @@ layout: post
 title: Improving old work
 date: '2017-11-10 00:00:00 +0800'
 categories: qgis california vector atlas
-tags: qgis california vector atlas
+tags: [qgis, california, vector, atlas]
 ---
 
 ![My first map of California's Population](/img/2017-11-10-Improving_old_work/OldCalPop.png "Old Map of California Population")

@@ -3,7 +3,7 @@ layout: post
 title: Residential areas with high proximity to facilities
 date: '2017-09-23 00:00:00 +0800'
 categories: qgis singapore vector atlas
-tags: qgis singapore vector atlas
+tags: [qgis, singapore, vector, atlas]
 published: true
 ---
 This is an expansion of an earlier project of mine during my internship at MOE.

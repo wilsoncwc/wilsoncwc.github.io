@@ -3,7 +3,7 @@ layout: post
 title: Locating a neighbourhood watch in Singapore
 date: '2017-09-22 00:00:00 +0800'
 categories: qgis singapore vector raster
-tags: qgis singapore vector raster
+tags: [qgis, singapore, vector, raster]
 ---
 Lab Assignment #3 for my high school GIS course.
 
