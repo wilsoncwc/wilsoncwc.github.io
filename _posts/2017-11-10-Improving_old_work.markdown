@@ -2,7 +2,7 @@
 layout: post
 title: Improving old work
 date: '2017-11-10 00:00:00 +0800'
-categories: qgis california vector atlas
+categories: qgis
 tags: [qgis, california, vector, atlas]
 ---
 

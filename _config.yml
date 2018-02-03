@@ -10,15 +10,18 @@ title:            Maps and Spatial Analysis
 tagline:          "My work in GIS and other stuff"
 description:      "A place where I keep track of what I learn. Mostly about GIS, but with other stuff occasionally thrown in."
 url:              https://wilsoncwc.github.io
-baseurl:          https://wilsoncwc.github.io/
+baseurl:          "/"
 paginate:         3
 rss:              atom.xml
+
 author:
   name:           Wilson Chua
   twitter:        wilsoncwc
   github:         wilsoncwc
   email:          wilsoncwc@gmail.com
-paginate:         3
+
+plugins: [jekyll-paginate]
+
 
 # Custom vars
 version:

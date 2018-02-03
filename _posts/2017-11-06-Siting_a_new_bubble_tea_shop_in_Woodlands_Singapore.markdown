@@ -2,7 +2,7 @@
 layout: post
 title: Siting a new bubble tea shop in Woodlands Singapore
 date: '2017-11-06 00:00:00 +0800'
-categories: qgis singapore vector
+categories: qgis
 tags: [qgis, singapore, vector]
 ---
 
