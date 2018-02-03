@@ -8,7 +8,7 @@ tags: [qgis, california, vector, atlas]
 
 ![My first map of California's Population](/assets/2017-11-10-Improving_old_work/OldCalPop.png "Old Map of California Population")
 
-![My first map of Northern California Population](/assets/2017-11-10-Improving_old_work/OldNorcalPop.jpeg "My first map of Northern California Population")
+![My first map of Northern California Population](/assets/2017-11-10-Improving_old_work/OldNorcalPop.jpg "My first map of Northern California Population")
 
 I submitted the maps above in a Lab assignment during my high school GIS course. It was basically the same as the QGIS tutorial on table joins, but it was adapted as an assignment. Looking back, the maps were giving off the wrong impression of the data as it was based on raw population numbers instead of the population density. In addition, all the typical map elements are missing, not sure what I thinking there.
 
