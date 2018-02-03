@@ -32,7 +32,7 @@ The primary option for styling rasters are colour schemes, and well-known option
 
 #### Output Map
 
-![Least Cost Path to reach stranded hiker](/assets/2018-02-03-Prettifying-Rasters-and-Geoprocessing/LeastCostPath.png "Least Cost Path to reach stranded hiker")
+![Least Cost Path to reach stranded hiker](/assets/2018-02-03-Prettifying-Rasters-and-Geoprocessing/LeastCostPath.jpeg "Least Cost Path to reach stranded hiker")
 
 As of now (Feb 2018) QGIS has an experimental SVG export. However, the layer styles do not export with their blending modes, and the resultant SVG has to be further processed with a vector graphics editor. I used [Inkscape](https://inkscape.org/en/) for the following map. As you can see I am not able to achieve the same blending I could in QGIS.
 
