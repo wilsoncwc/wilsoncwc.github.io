@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Migrated to Jekyll!
-date: '2018-02-04 00:00:00 +0800'
+date: '2018-02-05 00:00:00 +0800'
 categories: meta
 tags: [jekyll, github-pages]
 ---
