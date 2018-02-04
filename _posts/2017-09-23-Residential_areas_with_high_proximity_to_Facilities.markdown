@@ -8,6 +8,8 @@ published: true
 ---
 This is an expansion of an earlier project of mine during my internship at MOE.
 
+<!--excerpt-->
+
 ![Overview](/assets/2017-09-23-Residential_areas_with_high_proximity_to_Facilities/Overview.jpeg "Overview")
 
 The first map uses the intersection of buffers to create zones of 1km proximity to various facilities.

@@ -6,11 +6,15 @@ categories: qgis
 tags: [qgis, california, vector, atlas]
 ---
 
+A post where I try to revamp some previous work I made.
+
+<!--excerpt-->
+
 ![My first map of California's Population](/assets/2017-11-10-Improving_old_work/OldCalPop.png "Old Map of California Population")
 
 ![My first map of Northern California Population](/assets/2017-11-10-Improving_old_work/OldNorcalPop.jpg "My first map of Northern California Population")
 
-I submitted the maps above in a Lab assignment during my high school GIS course. It was basically the same as the QGIS tutorial on table joins, but it was adapted as an assignment. Looking back, the maps were giving off the wrong impression of the data as it was based on raw population numbers instead of the population density. In addition, all the typical map elements are missing, not sure what I thinking there.
+I submitted the maps above in a Lab assignment during my high school GIS course. It was basically the same as the [QGIS tutorial on table joins](http://www.qgistutorials.com/en/docs/performing_table_joins.html), but it was adapted as an assignment. Looking back, the maps were giving off the wrong impression of the data as it was based on raw population numbers instead of the population density. In addition, all the typical map elements are missing, not sure what I thinking there.
 
 So I decided to improve the map! Simply put the reality is a lot less impressive:
 
@@ -26,4 +30,4 @@ The resolution in the above image is pretty decent but just for clarity’s sake
 
 ![Population Density of Los Angeles, per Census Tract](/assets/2017-11-10-Improving_old_work/LA_PopDensity.jpg "Population Density of Los Angeles, per Census Tract")
 
-Clearly the boundaries of the census tracts and the counties don’t align for some reason. According to the U.S. Census Bureau the tracts “follow people rather than political boundaries” so the discrepancies between both cannot be resolved easily. However for the purpose of displaying the population density, these boundaries are only used for reference, so it’s not too much of an issue.
+Clearly the boundaries of the census tracts and the counties don’t align for some reason. [According to the U.S. Census Bureau](http://libguides.lib.msu.edu/tracts) the tracts *“follow people rather than political boundaries”* so the discrepancies between both cannot be resolved easily. However for the purpose of displaying the population density, these boundaries are only used for reference, so it’s not too much of an issue.

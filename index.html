@@ -13,8 +13,22 @@ title: Home
     </h1>
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
+    {% assign foundImage = 0 %}
+      {% assign images = post.content | split:"<img " %}
+      {% for image in images %}
+        {% if image contains 'src' %}
 
-    {{ post.content }}
+            {% if foundImage == 0 %}
+                {% assign html = image | split:"/>" | first %}
+                <img {{ html }} />
+                {% assign foundImage = 1 %}
+            {% endif %}
+        {% endif %}
+      {% endfor %}
+    {{ post.excerpt }}
+       {% if post.content contains site.excerpt_separator %}
+         <a href="{{ post.url }}">Read more</a>
+       {% endif %}
   </div>
   {% endfor %}
 </div>

@@ -6,6 +6,10 @@ categories: qgis
 tags: [qgis, grass, oregon, raster]
 ---
 
+An overview about making a typical hillshaded raster map.
+
+<!--excerpt-->
+
 Let's try to get more raster content here. Raster maps are usually more troublesome to manage than vector maps, due to the typically large data size of raster data. However, the amount of detail easily achievable in a raster map often overshadows vector maps trying to visualize similar landscapes. Simply put, it is often not feasible to trace out the points, lines and polygons to symbolize features in elaborate landscapes. Raster maps allow you to showcase such highly detailed maps, and only be limited to output resolution. For further reading check out the QGIS documentation's [Introduction to GIS](https://docs.qgis.org/2.14/en/docs/gentle_gis_introduction/raster_data.html)
 
 The following will be based off a spatial analysis and geoprocessing tutorial from [*Mastering QGIS*](https://www.packtpub.com/big-data-and-business-intelligence/mastering-qgis-second-edition) by Packt Publishing, which is an excellent guidebook about many advanced QGIS functionalities.

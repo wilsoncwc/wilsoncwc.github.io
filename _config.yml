@@ -11,6 +11,7 @@ tagline:          "My work in GIS and other stuff"
 description:      "A place where I keep track of what I learn. Mostly about GIS, but with other stuff occasionally thrown in."
 url:              https://wilsoncwc.github.io
 baseurl:          https://wilsoncwc.github.io/
+excerpt_separator: "<!--excerpt-->"
 paginate:         3
 rss:              atom.xml
 

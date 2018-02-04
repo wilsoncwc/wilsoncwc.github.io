@@ -12,6 +12,8 @@ Lab Assignment #2 for my high school GIS course
 
 A client requests an identification of a feasible location for his start-up beverage outlet in northern Singapore. The outlet specializes in bubble tea, and it was preferred that the location would take advantage of larger human traffic near major transportation routes.
 
+<!--excerpt-->
+
 ## Summary of Considerations
 
 Woodlands was chosen primarily due to the high commuter traffic across the Causeway between Singapore and Malaysia. The resident population would also play a large factor in locational attractiveness, specifically the younger age groups of 10 to 25 years. Important nodes to consider therefore include schools and malls which are heavily frequented by the above, as well as transportation hubs such as MRT stations, major expressways and roads. Also the locations of other bubble tea franchises should be avoided in order to minimize competition.
