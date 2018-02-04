@@ -5,7 +5,6 @@ date: '2017-11-06 00:00:00 +0800'
 categories: gis
 tags: [qgis, singapore, vector]
 ---
-
 Lab Assignment #2 for my high school GIS course
 
 A client requests an identification of a feasible location for his start-up beverage outlet in northern Singapore. The outlet specializes in bubble tea, and it was preferred that the location would take advantage of larger human traffic near major transportation routes.

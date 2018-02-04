@@ -5,7 +5,6 @@ date: '2017-11-10 00:00:00 +0800'
 categories: gis
 tags: [qgis, california, vector, atlas]
 ---
-
 A post where I try to revamp some previous work I made. Based off a QGIS tutorial.
 
 <!--excerpt-->
