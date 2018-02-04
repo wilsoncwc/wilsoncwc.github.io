@@ -2,21 +2,21 @@
 layout: post
 title: Prettifying Rasters & Geoprocessing
 date: '2018-02-03 00:00:00 +0800'
-categories: qgis
-tags: [qgis, grass, oregon, raster]
+categories: gis
+tags: [qgis, oregon, raster, qgis2threejs]
 ---
 
 An overview about making a typical hillshaded raster map.
 
 <!--excerpt-->
 
-Let's try to get more raster content here. Raster maps are usually more troublesome to manage than vector maps, due to the typically large data size of raster data. However, the amount of detail easily achievable in a raster map often overshadows vector maps trying to visualize similar landscapes. Simply put, it is often not feasible to trace out the points, lines and polygons to symbolize features in elaborate landscapes. Raster maps allow you to showcase such highly detailed maps, and only be limited to output resolution. For further reading check out the QGIS documentation's [Introduction to GIS](https://docs.qgis.org/2.14/en/docs/gentle_gis_introduction/raster_data.html)
+Let's try to get more raster content here. Raster maps are usually more troublesome to manage than vector maps, due to the typically large data size of raster data. However, the amount of detail easily achievable in a raster map often overshadows vector maps trying to visualize similar landscapes. Simply put, it is often not feasible to trace out the points, lines and polygons to symbolize features in elaborate landscapes. Raster maps allow you to showcase such highly detailed maps, and only be limited to output resolution. For further reading check out the QGIS documentation's [Introduction to GIS](https://docs.qgis.org/2.14/en/docs/gentle_gis_introduction/raster_data.html).
 
 The following will be based off a spatial analysis and geoprocessing tutorial from [*Mastering QGIS*](https://www.packtpub.com/big-data-and-business-intelligence/mastering-qgis-second-edition) by Packt Publishing, which is an excellent guidebook about many advanced QGIS functionalities.
 
 ## Raster Analyses in QGIS using GRASS
 
-Additional spatial analysis tools are available in QGIS, through integration with GRASS GIS, SAGA, GDAL and other third-party providers. Although QGIS includes quite a few algorithms natively, the algorithms available through those other powerful open source platforms extend spatial analysis capabilities seamlessly. Looking to shade relief? Type that into the Processing Toolbox and you can choose from **r.relief** from GRASS, or **Color relief** from GDAL. QGIS has its own hillshade tool, and it can be found with a bit of navigating in the menu toolbar (Raster > Analysis > DEM. Hillshade is the default option.).
+Additional spatial analysis tools are available in QGIS, through integration with GRASS GIS, SAGA, GDAL and other third-party providers. Although QGIS includes quite a few algorithms natively, the algorithms available through those other powerful open source platforms extend spatial analysis capabilities seamlessly. Looking to shade relief? Type that into the Processing Toolbox and you can choose from **r.relief** from GRASS, or **Color relief** from GDAL. QGIS has its own hillshade tool, and it can be found with a bit of navigating in the menu toolbar (Raster > Analysis > DEM. Hillshade is the default option).
 
 #### Our Tutorial Question
 
