@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+description: A short introduction of myself. What else can About be about?
 ---
 
 ## Hi! I am Wilson Chua. Welcome to my blog!
