@@ -4,6 +4,7 @@ title: Migrated to Jekyll!
 date: '2018-02-05 00:00:00 +0800'
 categories: meta
 tags: [jekyll, github-pages]
+description: A short account of my experience migrating a blog from Wordpress to Jekyll.
 ---
 Well, **I did it!** Here is the customary *Welcome-to-my-Jekyll-blog* post, where I try to outline all the steps involved in creating my blog, powered by [Jekyll](https://jekyllrb.com/) and hosted on [Github Pages](https://pages.github.com/).
 

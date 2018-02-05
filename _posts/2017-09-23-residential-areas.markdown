@@ -4,7 +4,7 @@ title: Residential areas with high proximity to facilities
 date: '2017-09-23 00:00:00 +0800'
 categories: gis
 tags: [qgis, singapore, vector, atlas]
-published: true
+description: Finding the best areas to live in Singapore, based on proximity to amenities.
 ---
 This is an expansion of an earlier project of mine during my internship. The objective of the project was to create a simple introduction to GIS for elementary school children around the age of 12.
 

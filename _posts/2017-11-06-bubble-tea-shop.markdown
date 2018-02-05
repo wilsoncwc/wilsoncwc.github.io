@@ -4,6 +4,7 @@ title: Siting a new bubble tea shop in Woodlands Singapore
 date: '2017-11-06 00:00:00 +0800'
 categories: gis
 tags: [qgis, singapore, vector]
+description: Finding the most competitive areas to locate a bubble tea startup in Singapore.
 ---
 Lab Assignment #2 for my high school GIS course
 

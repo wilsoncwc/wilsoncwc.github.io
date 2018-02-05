@@ -3,12 +3,12 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Permalinks
-permalink:        pretty
+permalink:        /:title/
 
 # Setup
 title:            Maps and Spatial Analysis
 tagline:          "My work in GIS and other stuff"
-description:      "A place where I keep track of what I learn. Mostly about GIS, but with other stuff occasionally thrown in."
+description:      "A place where I keep track of what I learn."
 url:              https://wilsoncwc.github.io
 baseurl:          /
 excerpt_separator: "<!--excerpt-->"
@@ -21,8 +21,9 @@ author:
   github:         wilsoncwc
   email:          wilsoncwc@gmail.com
 
-plugins: [jekyll-paginate]
-
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
 
 # Custom vars
 version:
