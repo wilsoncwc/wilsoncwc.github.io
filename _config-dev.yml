@@ -8,12 +8,16 @@ permalink:        /:title/
 # Setup
 title:            Maps and Spatial Analysis
 tagline:          "My work in GIS and other stuff"
-description:      "A place where I keep track of what I learn."
+description:      "A place where I keep track of what I learn. GIS, Data Analysis, and more."
 url:              https://wilsoncwc.github.io
 baseurl:          /
 excerpt_separator: "<!--excerpt-->"
 paginate:         3
 rss:              atom.xml
+logo:             "/public/apple-touch-icon-144x144.png"
+lang:             en_SG
+webmaster_verifications:
+  google: T595DPsAvOjTkNROolIaY6Zb1pe_0nAUpoFkaEUKLkI
 
 author:
   name:           Wilson Chua
@@ -21,9 +25,16 @@ author:
   github:         wilsoncwc
   email:          wilsoncwc@gmail.com
 
+social:
+  name:           Wilson Chua
+  links:
+    - https://twitter.com/wilsoncwc
+    - https://github.com/wilsoncwc
+
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 # Custom vars
 version:

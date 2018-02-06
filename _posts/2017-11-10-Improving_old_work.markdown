@@ -4,6 +4,7 @@ title: Improving old work
 date: '2017-11-10 00:00:00 +0800'
 categories: gis
 tags: [qgis, california, vector, atlas]
+image: /assets/2017-11-10-Improving_old_work/Cal_PopDensity.jpeg
 description: Trying to fix major issues in the earlier maps I made, when I was starting out in GIS.
 ---
 A post where I try to revamp some previous work I made. Based off a QGIS tutorial.

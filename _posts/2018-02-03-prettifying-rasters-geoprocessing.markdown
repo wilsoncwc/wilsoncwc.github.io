@@ -4,6 +4,7 @@ title: Prettifying Rasters & Geoprocessing
 date: '2018-02-03 00:00:00 +0800'
 categories: gis
 tags: [qgis, oregon, raster, qgis2threejs]
+image: /assets/2018-02-03-Prettifying-Rasters-and-Geoprocessing/LeastCostPath.jpg
 description: Building on a geoprocessing tutorial to generate beautiful raster maps.
 ---
 An overview about making a typical hillshaded raster map.

@@ -4,6 +4,7 @@ title: Locating a neighbourhood watch in Singapore
 date: '2017-09-22 00:00:00 +0800'
 categories: gis
 tags: [qgis, singapore, vector, raster]
+image: /assets/2017-09-22-Locating_a_neighbourhood_watch_in_Singapore/CrimeDensity.jpeg
 description: Delimiting priority areas in Singapore for implementing an urban neighbourhood watch.
 ---
 Lab Assignment #3 for my high school GIS course.
