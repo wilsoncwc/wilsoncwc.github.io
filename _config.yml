@@ -10,7 +10,7 @@ title:            Maps and Spatial Analysis
 tagline:          "My work in GIS and other stuff"
 description:      "A place where I keep track of what I learn. GIS, Data Analysis, and more."
 url:              https://wilsoncwc.github.io
-baseurl:          /
+baseurl:          "/"
 excerpt_separator: "<!--excerpt-->"
 paginate:         3
 rss:              atom.xml
