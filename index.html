@@ -29,7 +29,7 @@ title: Home
       {% endfor %}
     {{ post.excerpt }}
        {% if post.content contains site.excerpt_separator %}
-         <a style="font-weight:bold" href="{{ post.url }}">Read more</a>
+         <a id="readmore" href="{{ post.url }}">Read more</a>
        {% endif %}
 
   </div>

@@ -109,7 +109,12 @@ a.sidebar-nav-item:focus {
   line-height: 1;
   text-align: center;
 }
-
+#contact-list {
+  text-align: center;
+}
+#readmore {
+  font-weight: bold;
+}
 /* Sticky sidebar
  *
  * Add the `sidebar-sticky` class to the sidebar's container to affix it the
