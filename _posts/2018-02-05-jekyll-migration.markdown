@@ -32,7 +32,7 @@ For my theme recommendations, I would advocate [**Poole**](http://getpoole.com/)
 jekyll serve -w --config _config-dev.yml
 ```
 
-Also, Google Analytics docks Github Pages for not leveraging browser caching. Github Pages sets `cache-control: max-age` to 10 minutes in the header, and there is no way to change that as of now, unless you use your own CDN such as [Cloudflare](https://www.cloudflare.com/). There is, however, [a workaround]((https://diywpblog.com/leverage-browser-cache-optimize-google-analytics/)) that requires you to download the analytics script and host it locally.
+Also, Google Analytics docks Github Pages for not leveraging browser caching. Github Pages sets `cache-control: max-age` to 10 minutes in the header, and there is no way to change that as of now, unless you use your own CDN such as [Cloudflare](https://www.cloudflare.com/). There is, however, [a workaround](https://diywpblog.com/leverage-browser-cache-optimize-google-analytics/) that requires you to download the analytics script and host it locally.
 
 ## Customization Options
 
