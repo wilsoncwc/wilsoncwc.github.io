@@ -6,14 +6,6 @@
   <!-- Enable responsiveness on mobile devices-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
-  <title>
-    {% if page.title == "Home" %}
-      {{ site.title }} &middot; {{ site.tagline }}
-    {% else %}
-      {{ page.title }} &middot; {{ site.title }}
-    {% endif %}
-  </title>
-
   <!-- CSS -->
   <link rel="stylesheet" href="{{ "/" | relative_url  }}public/css/poole.css">
   <link rel="stylesheet" href="{{ "/" | relative_url }}public/css/syntax.css">
@@ -25,6 +17,6 @@
                                  <link rel="shortcut icon" href="{{ "/" | relative_url  }}public/favicon.ico">
 
   <!-- RSS -->
-  <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ "/" | relative_url  }}atom.xml">
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ "/" | relative_url  }}feed.xml">
   {% seo %}
 </head>
