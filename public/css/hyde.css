@@ -76,6 +76,18 @@ html {
   color: #fff;
 }
 
+/* Track */
+::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px grey;
+    border-radius: 0.5rem;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #008b8b;
+    border-radius: 0.5rem;
+}
+
 /* About section */
 .sidebar-about h1 {
   color: #fff;
@@ -112,9 +124,20 @@ a.sidebar-nav-item:focus {
 #contact-list {
   text-align: center;
 }
+#contact-list a:hover {
+  text-decoration: none;
+  color: #000;
+}
+#contact-list a:link,
+#contact-list a:active,
+#contact-list a:visited,
+#contact-list a:focus {
+  text-decoration: none;
+}
 #readmore {
   font-weight: bold;
 }
+
 /* Sticky sidebar
  *
  * Add the `sidebar-sticky` class to the sidebar's container to affix it the
@@ -130,7 +153,6 @@ a.sidebar-nav-item:focus {
   }
 }
 
-
 /* Container
  *
  * Align the contents of the site above the proper threshold with some margin-fu
@@ -141,7 +163,6 @@ a.sidebar-nav-item:focus {
   padding-top:    4rem;
   padding-bottom: 4rem;
 }
-
 @media only screen and (min-width: 48em) {
   .content {
     max-width: 38rem;
@@ -149,14 +170,12 @@ a.sidebar-nav-item:focus {
     margin-right: 2rem;
   }
 }
-
 @media only screen and (min-width: 64em) {
   .content {
     margin-left: 22rem;
     margin-right: 4rem;
   }
 }
-
 
 /*
  * Reverse layout
@@ -174,15 +193,12 @@ a.sidebar-nav-item:focus {
     margin-right: 20rem;
   }
 }
-
 @media only screen and (min-width: 64em) {
   .layout-reverse .content {
     margin-left: 4rem;
     margin-right: 22rem;
   }
 }
-
-
 
 /*
  * Themes
