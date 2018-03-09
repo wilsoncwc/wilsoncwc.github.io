@@ -4,10 +4,10 @@ title: Prettifying Rasters & Geoprocessing
 date: '2018-02-03 00:00:00 +0800'
 categories: gis
 tags: [qgis, oregon, raster, qgis2threejs]
-image: /assets/2018-02-03-Prettifying-Rasters-and-Geoprocessing/LeastCostPath.jpg
-description: Building on a geoprocessing tutorial to generate beautiful raster maps.
+image: /assets/2018-02-03-Prettifying-rasters-and-geoprocessing/LeastCostPath.jpg
+description: Building on a geoprocessing tutorial to generate beautiful raster maps of Crater Lake in Oregon. Uses the qgis2threejs plugin to generate a 3D visualization of the elevation data.
 ---
-An overview about making a typical hillshaded raster map. In this post, I will also elaborate on raster stylings and useful geoprocessing functions available in QGIS.
+An overview about making a typical hillshaded raster map from a Digital Elevation Model. In this post, I will also elaborate on raster stylings and useful geoprocessing functions available in QGIS, and use the qgis2threejs plugin to generate web-exportable 3D map visualizations.
 
 <!--excerpt-->
 
@@ -37,16 +37,16 @@ The primary option for styling rasters are colour schemes, and well-known option
 
 #### Output Map
 
-[![Least Cost Path to reach stranded hiker](/assets/2018-02-03-Prettifying-Rasters-and-Geoprocessing/LeastCostPath.jpg "Least Cost Path to reach stranded hiker")](/assets/2018-02-03-Prettifying-Rasters-and-Geoprocessing/LeastCostPath.png)
+[![Least Cost Path to reach stranded hiker](/assets/2018-02-03-Prettifying-rasters-and-geoprocessing/LeastCostPath.jpg "Least Cost Path to reach stranded hiker")](/assets/2018-02-03-Prettifying-rasters-and-geoprocessing/LeastCostPath.png)
 
 As of now (Feb 2018) QGIS has an experimental SVG export. However, the layer styles do not export with their blending modes, and the resultant SVG has to be further processed with a vector graphics editor. I used [Inkscape](https://inkscape.org/en/) for the following map. As you can see I am not able to achieve the same blending I could in QGIS.
 
-[![Least Cost Path to reach stranded hiker, SVG](/assets/2018-02-03-Prettifying-Rasters-and-Geoprocessing/LeastCostPath.svg "Least Cost Path to reach stranded hiker, SVG")](/assets/2018-02-03-Prettifying-Rasters-and-Geoprocessing/LeastCostPath.svg)
+[![Least Cost Path to reach stranded hiker, SVG](/assets/2018-02-03-Prettifying-rasters-and-geoprocessing/LeastCostPath.svg "Least Cost Path to reach stranded hiker, SVG")](/assets/2018-02-03-Prettifying-rasters-and-geoprocessing/LeastCostPath.svg)
 
 #### Viewing in 3D
 
 [QGIS2threejs](https://qgis2threejs.readthedocs.io/en/docs-release/) is an excellent plugin to view elevation data in 3D. The map is viewable through stunning angles offered by WebGL.
 
-[![Navigating in QGIS2threejs](/assets/2018-02-03-Prettifying-Rasters-and-Geoprocessing/LeastCostPath.gif "Navigating in QGIS2threejs")](/assets/2018-02-03-Prettifying-Rasters-and-Geoprocessing/LeastCostPath.gif)
+[![Navigating in QGIS2threejs](/assets/2018-02-03-Prettifying-rasters-and-geoprocessing/LeastCostPath.gif "Navigating in QGIS2threejs")](/assets/2018-02-03-Prettifying-rasters-and-geoprocessing/LeastCostPath.gif)
 
 You can view the full graphic [**here**](https://wilsoncwc.github.io/LeastCostPath3D).

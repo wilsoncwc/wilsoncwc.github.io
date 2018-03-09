@@ -4,10 +4,10 @@ title: About
 description: A short introduction of myself. What else can About be about?
 ---
 
-## Hi! I am Wilson Chua. Welcome to my blog!
+> ### Hi! I am Wilson Chua. Welcome to my blog!
 
 I'm a GIS enthusiast from Singapore. I use QGIS and other open-source GIS software to make maps.  
-Occasionally, I dabble around with coding and websites. This blog was migrated from Wordpress.com so that I might have more control over the HTML and CSS.
+Occasionally, I dabble around with coding and websites. This blog was migrated from Wordpress.com so that I might have more control over the front-end code.
 
 In my free time I browse Reddit, and I enjoy raving to progressive house and liquid drum and bass. I also like running, because I'm bad at sports.
 

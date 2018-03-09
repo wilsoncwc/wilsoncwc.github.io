@@ -86,21 +86,32 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.25;
   color: #313131;
   text-rendering: optimizeLegibility;
+  font-family: "Fira Sans", Helvetica, sans-serif;
 }
 h1 {
+  margin-top: 1.5rem;
   font-size: 1.5rem;
 }
 h2 {
-  margin-top: 1rem;
+  margin-top: 1.33rem;
   font-size: 1.33rem;
 }
 h3 {
-  margin-top: 1.5rem;
+  margin-top: .5rem;
   font-size: 1.2rem;
 }
-h4, h5, h6 {
+h4 {
+  margin-top: 1.2rem;
+  font-size: 1.2rem;
+}
+h5 {
   margin-top: 1rem;
   font-size: 1rem;
+}
+h6 {
+  margin-top: 1rem;
+  font-size: 1rem;
+  opacity: 0.8;
 }
 
 /* Body text */
@@ -352,11 +363,16 @@ tbody tr:nth-child(odd) th {
   color: #9a9a9a;
 }
 
+/* Tags */
+.tags {
+  font-size: 1.2rem;
+}
+
 /* Related posts */
 .related {
   padding-top: 2rem;
   padding-bottom: 2rem;
-  border-top: 1px solid #eee;
+  border-top: 3px solid #eee;
 }
 .related-posts {
   padding-left: 0;
@@ -398,7 +414,7 @@ tbody tr:nth-child(odd) th {
 .pagination-item {
   display: block;
   padding: 1rem;
-  border: 1px solid #eee;
+  border: 1px solid #ddd;
 }
 .pagination-item:first-child {
   margin-bottom: -1px;
@@ -406,7 +422,8 @@ tbody tr:nth-child(odd) th {
 
 /* Only provide a hover state for linked pagination items */
 a.pagination-item:hover {
-  background-color: #f5f5f5;
+  background-color: #ddd;
+  text-decoration: none;
 }
 
 @media (min-width: 30em) {

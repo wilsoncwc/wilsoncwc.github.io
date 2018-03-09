@@ -32,7 +32,7 @@
  */
 
 html {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "Lato", Helvetica, Arial, sans-serif;
 }
 @media (min-width: 48em) {
   html {
@@ -84,7 +84,6 @@ html {
 
 /* Track */
 ::-webkit-scrollbar-track {
-    box-shadow: inset 0 0 5px grey;
     background-color: #FFF;
 }
 
@@ -105,7 +104,6 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: "Ubuntu", Helvetica, sans-serif;
   font-size: 2.25rem;
 }
 
@@ -117,7 +115,8 @@ html {
   display: block;
   padding: .5rem 1rem;
   border-top: 1px solid rgba(255,255,255,.1);
-  text-align: center
+  text-align: center;
+  font-family: "Fira Sans", Helvetica, sans-serif;
 }
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
@@ -177,7 +176,7 @@ a.sidebar-nav-item:focus {
 }
 @media only screen and (min-width: 48em) {
   .content {
-    max-width: 38rem;
+    max-width: 100%;
     margin-left: 20rem;
     margin-right: 2rem;
   }
