@@ -54,9 +54,9 @@ ALOS PALSAR data can be downloaded from [Alaska Satellite Facility's data portal
 
 In order to easily compare the DEMs as overlays, I used the plugin [qgis2web](https://plugins.qgis.org/plugins/qgis2web/) to make the following Leaflet map, which allows for simple switching between the three DEMs with their appropriate georeferencing. For reference, I also included the locations of **triangulation stations**, which give the exact elevation at that points.
 
-
-<iframe src="https://wilsoncwc.github.io/singapore-dem" frameborder="0" allowfullscreen style="height: 500px; width: 100%;"> </iframe>
-
+<div class="iframeWrapper">
+  <iframe src="https://wilsoncwc.github.io/singapore-dem" frameborder="0" allowfullscreen> </iframe>
+</div>
 
 The extent of the DEMs can be easily compared, and the ASTER DEM evidently has the most comprehensive coverage. All of the three GDEM layers were given the same styling, so the differences in representation can be fairly observed. The more notable points include the apparent high elevation in Mandai for the ASTER GDEM, and the relatively lower-lying elevation overall for the SRTM DEM, and the uniformity of the ALOS PALSAR DEM.
 
