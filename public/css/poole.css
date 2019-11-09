@@ -245,6 +245,19 @@ img {
   border-radius: 5px;
 }
 
+img[alt="Ditto"] {
+  width: 15rem;
+  height: 15rem;
+  border-radius: 50%;
+}
+@media screen and (orientation: portrait) {
+  img[alt="Ditto"] {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
 /* Tables */
 table {
   margin-bottom: 1rem;

@@ -3,7 +3,7 @@ layout: page
 title: Tags
 description: List of posts by tags.
 ---
-
+---
 <!-- Get the tag name for every tag on the site and set them
 to the `site_tags` variable. -->
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
