@@ -15,7 +15,7 @@ A client wishes to identify areas and clusters of crimes rates in Singapore usin
 
 ## Summary of Considerations
 
-Type of crime is to be considered as not every single crime would be relevant to a neighbourhood watch. According to [Bennett et al. (2008)](https://www.campbellcollaboration.org/media/k2/attachments/1049_R.pdf), the majority of neighbourhood watches worldwide focuses on robberies. However in the case of Singapore,  the [**Neighbourhood Watch Groups**](https://www.hometeamvolunteers.gov.sg/htvms/web/neighbourhoodwatchzones) (NWGs) established do look at many other types of crimes, including unlicensed money lending (UML) and harassment. Hence, all type of crimes should be analysed.
+Type of crime is to be considered as not every single crime would be relevant to a neighbourhood watch. According to [Bennett et al. (2008)](https://onlinelibrary.wiley.com/doi/10.4073/csr.2008.18), the majority of neighbourhood watches worldwide focuses on robberies. However in the case of Singapore,  the [**Neighbourhood Watch Groups**](https://www.hometeamvolunteers.gov.sg/htvms/web/neighbourhoodwatchzones) (NWGs) established do look at many other types of crimes, including unlicensed money lending (UML) and harassment. Hence, all type of crimes should be analysed.
 
 NWGs will also need sufficient police support, as while they can act as their eyes and the ears, all crime cases will eventually have to be escalated in good time before things can get out of hand. The population in the area will also be looked at, since the strength of the NWGs is drawn from the resident population.
 
