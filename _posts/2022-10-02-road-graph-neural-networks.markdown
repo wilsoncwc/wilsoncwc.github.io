@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Road-Graph Neural Networks
-date: '2022-10-01 00:00:00 +0800'
+date: '2022-10-02 0:15:00 +0800'
 categories: ml
 tags: [gnn, space syntax, python]
 description: Introduction for machine learning on road networks using GNNs.

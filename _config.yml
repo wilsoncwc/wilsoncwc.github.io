@@ -10,7 +10,7 @@ title:            Maps and Spatial Analysis
 tagline:          "My work in GIS and other stuff"
 description:      "A blog where a data science student keeps track of what he learns. Geographic Information Systems (GIS), Data Analysis, and more."
 url:              https://wilsoncwc.github.io
-baseurl:          /
+baseurl:          ""
 paginate:         3
 rss:              atom.xml
 logo:             "/public/apple-touch-icon-144x144.png"
@@ -23,7 +23,6 @@ excerpt_separator: "<!--excerpt-->"
 # Social links
 author:
   name:           Wilson Chua
-  twitter:        wilsoncwc
   github:         wilsoncwc
   linkedin:       wilsoncwc
   email:          "&#119;&#105;&#108;&#115;&#111;&#110;&#099;&#119;&#099;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;"
@@ -31,8 +30,8 @@ author:
 social:
   name:           Wilson Chua
   links:
-    - https://twitter.com/wilsoncwc
     - https://github.com/wilsoncwc
+    - https://www.linkedin.com/in/wilsoncwc/
 
 plugins:
   - jekyll-paginate
