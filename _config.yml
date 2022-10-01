@@ -8,7 +8,7 @@ permalink:        /:title/
 # Setup
 title:            Maps and Spatial Analysis
 tagline:          "My work in GIS and other stuff"
-description:      "A blog where a data science student keeps track of what he learns. Geographic Information Systems (GIS), Data Analysis, and more."
+description:      "A blog where a programmer keeps track of what he learns in Geographic Information Systems (GIS), Data Analysis, and more."
 url:              https://wilsoncwc.github.io
 baseurl:          ""
 paginate:         3
